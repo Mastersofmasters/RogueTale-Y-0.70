@@ -451,6 +451,7 @@
 0,CombatZoneResizeInstant,239,226,404,391,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
+2,DamagePlayer,-50,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
@@ -500,7 +501,7 @@
 0,HeartTeleport,320,310,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
-0,SansText,its finnaly time,Column 1,Column 2,Column 3,Column 4,Column 5,Column 6,Column 7,Column 8,Column 9
+0,SansText,its finnaly time,
 ,,,,,,,,,,,
 0,SansText,to show my True COLOURS,,,,,,,,,
 ,,,,,,,,,,,
@@ -1359,4 +1360,7 @@
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 1.9,SansHead,Default,,,,,,,,,
+
 0,SansAnimation,Idle,,,,,,,,,
+
+3,EndAttack,,
