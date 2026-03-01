@@ -206,9 +206,11 @@
 0,HeartMode,0,,,,,,,,,
 0.5,SansText,you really want me dead,,,,,,,,,
 0,HeartTeleport,325,250,,,,,,,,
+0.7,BlackScreen,1,,,,,,,,,
+0,Sound,Flash,,,,,,,,,
+0.15,BlackScreen,0,,,,,,,,,
+0,Sound,Flash,,,,,,,,,
 
-0,Sanstext,ive had some training       with ????? and,,,,,,,,,
-0,sanstext,well i learned more tricks,,,,,,,,,
 0,HeartTeleport,325,250,,,,,,,,
 0,sansHead ,wink,,,,,,,,,
 
@@ -236,13 +238,14 @@
 0,BoneBulletV,3,90,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
-0,SansText,heh your a fast one,,,,,,,,,
-,,,,,,,,,,,
-0,sanstext,but unfuntalnnly ,,,,,,,,,
+
 0,sanshead,lookleft,,,,,,,,,
-0,sansText,i only had one eye open,,,,,,,,,
-0,Sanshead,closed,,,,,,,,,
-0,SansText,for my full POWER!!!!!!,,,,,,,,,
+
+1,Sanshead,closed,,,,,,,,,
+0.7,BlackScreen,1,,,,,,,,,
+0,Sound,Flash,,,,,,,,,
+0.15,BlackScreen,0,,,,,,,,,
+0,Sound,Flash,,,,,,,,,
 0,DamagePlayer,-29,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
@@ -259,9 +262,10 @@
 1,SansText ,I have The WHite soul,,,,,,,,,
 0,Heartmode,4,,,,,,,,,
 0,HeartTeleport,323,329,,,,,,,,
-0,sound,screenflash,,,,,,,,,
-0,Screenflash,1,,,,,,,,,
-1,Screenflash,0,,,,,,,,,
+0.7,BlackScreen,1,,,,,,,,,
+0,Sound,Flash,,,,,,,,,
+0.15,BlackScreen,0,,,,,,,,,
+0,Sound,Flash,,,,,,,,,
 0,CombatZoneResize,133,251,508,391,,,,,,
 0,Sound,flash,,,,,,,,,
 0,GetHeartPos,HeartX,HeartY,,,,,,,,
@@ -460,7 +464,7 @@
 ,,,,,,,,,,,
 0,SansText,its finnaly time,
 ,,,,,,,,,,,
-0,SansText,to show my True COLOURS,,,,,,,,,
+
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
@@ -761,6 +765,7 @@
 0,SansAnimation,Idle,,,,,,,,,
 0,DamagePlayer,-200,,,
 3,EndAttack,,
+
 
 
 
